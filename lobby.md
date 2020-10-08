@@ -5,10 +5,10 @@
 
 ## Please select level
 
-[Level 401]
+[Level 401 - Advanced Software Development]
 
-[Level 301](/301/class-00.md)
+[Level 301 - Intermediate Software Development](/301/class-00.md)
 
-[Level 201](201/class-01.md)
+[Level 201 - Foundations of Software Development](201/class-01.md)
 
-[Level 102]
+[Level 102 - Intro to Software Development](102/markdown.md)
