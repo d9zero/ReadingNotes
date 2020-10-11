@@ -1,4 +1,4 @@
-# Class 05
+# Class 05 - Heroku Deployment
 
 ## Navigation ##
  - [class 01](class-01.md)
