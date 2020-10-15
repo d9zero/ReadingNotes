@@ -22,7 +22,7 @@ Below you will find some reading material, code samples, and some additional res
 
 Review the Submission Instructions for guidance on completing and submitting this assignment.
 
-Reading
+### Reading
 [An Introduction to Node.js on sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js)
 
 
