@@ -37,7 +37,8 @@ Review the code that goes along with the tutorial
 
 EJS is a simple templating language that lets you generate HTML markup with plain JavaScript.
 
-          E in EJS is for Embedded, Ejs is simple and effective template engine for JavaScript. EJS is the simple template which allows developers to create the HTML page with plain JavaScript. Ejs provide fast compilation and rendering and include both server and browser support.
+          E in EJS is for Embedded, Ejs is simple and effective template engine for JavaScript. EJS is the simple template which allows developers to create the HTML page with plain JavaScript. Ejs provide fast compilation and rendering and include both server and browser support. The template engine helps to create an HTML template with minimal code. Also, it can inject data into the HTML template at the client-side and produce the final HTML.
+        
 
     
 
