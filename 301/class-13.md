@@ -21,6 +21,10 @@
  - [class 17](class-17.md)
  - [class 18](class-18.md)
 
+
+![javascript forms](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fspeckyboy.com%2Fwp-content%2Fuploads%2F2013%2F08%2Fjquery_form_validation_01.jpg&f=1&nofb=1)
+
+
 ## Reading
 [Sending Form Data](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data)
 ## Additional Resources
